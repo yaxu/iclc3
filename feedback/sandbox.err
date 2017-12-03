@@ -89,3 +89,350 @@ Use of uninitialized value $1 in addition (+) at (eval 20) line 5.
 Use of uninitialized value $1 in addition (+) at (eval 20) line 5.
 Use of uninitialized value $1 in addition (+) at (eval 20) line 5.
 Use of uninitialized value $1 in addition (+) at (eval 20) line 5.
+syntax error at (eval 25) line 3, near "538
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 25) line 5, near ";
+    "
+syntax error at (eval 25) line 8, near ";
+}"
+syntax error at (eval 26) line 3, near "539
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 26) line 5, near ";
+    "
+syntax error at (eval 26) line 8, near ";
+}"
+syntax error at (eval 27) line 3, near "540
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 27) line 5, near ";
+    "
+syntax error at (eval 27) line 8, near ";
+}"
+syntax error at (eval 28) line 3, near "541
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 28) line 5, near ";
+    "
+syntax error at (eval 28) line 8, near ";
+}"
+syntax error at (eval 29) line 3, near "542
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 29) line 5, near ";
+    "
+syntax error at (eval 29) line 8, near ";
+}"
+syntax error at (eval 30) line 3, near "543
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 30) line 5, near ";
+    "
+syntax error at (eval 30) line 8, near ";
+}"
+syntax error at (eval 31) line 3, near "544
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 31) line 5, near ";
+    "
+syntax error at (eval 31) line 8, near ";
+}"
+syntax error at (eval 32) line 3, near "545
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 32) line 5, near ";
+    "
+syntax error at (eval 32) line 8, near ";
+}"
+syntax error at (eval 33) line 3, near "546
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 33) line 5, near ";
+    "
+syntax error at (eval 33) line 8, near ";
+}"
+syntax error at (eval 34) line 3, near "547
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 34) line 5, near ";
+    "
+syntax error at (eval 34) line 8, near ";
+}"
+syntax error at (eval 35) line 3, near "548
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 35) line 5, near ";
+    "
+syntax error at (eval 35) line 8, near ";
+}"
+syntax error at (eval 36) line 3, near "549
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 36) line 5, near ";
+    "
+syntax error at (eval 36) line 8, near ";
+}"
+syntax error at (eval 37) line 3, near "550
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 37) line 5, near ";
+    "
+syntax error at (eval 37) line 8, near ";
+}"
+syntax error at (eval 38) line 3, near "551
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 38) line 5, near ";
+    "
+syntax error at (eval 38) line 8, near ";
+}"
+syntax error at (eval 39) line 3, near "552
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 39) line 5, near ";
+    "
+syntax error at (eval 39) line 8, near ";
+}"
+syntax error at (eval 40) line 3, near "553
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 40) line 5, near ";
+    "
+syntax error at (eval 40) line 8, near ";
+}"
+syntax error at (eval 41) line 3, near "554
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 41) line 5, near ";
+    "
+syntax error at (eval 41) line 8, near ";
+}"
+syntax error at (eval 42) line 3, near "555
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 42) line 5, near ";
+    "
+syntax error at (eval 42) line 8, near ";
+}"
+syntax error at (eval 43) line 3, near "556
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 43) line 5, near ";
+    "
+syntax error at (eval 43) line 8, near ";
+}"
+syntax error at (eval 44) line 3, near "557
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 44) line 5, near ";
+    "
+syntax error at (eval 44) line 8, near ";
+}"
+syntax error at (eval 45) line 3, near "558
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 45) line 5, near ";
+    "
+syntax error at (eval 45) line 8, near ";
+}"
+syntax error at (eval 46) line 3, near "559
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 46) line 5, near ";
+    "
+syntax error at (eval 46) line 8, near ";
+}"
+syntax error at (eval 47) line 3, near "560
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 47) line 5, near ";
+    "
+syntax error at (eval 47) line 8, near ";
+}"
+syntax error at (eval 48) line 3, near "561
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 48) line 5, near ";
+    "
+syntax error at (eval 48) line 8, near ";
+}"
+syntax error at (eval 49) line 3, near "562
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 49) line 5, near ";
+    "
+syntax error at (eval 49) line 8, near ";
+}"
+syntax error at (eval 50) line 3, near "563
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 50) line 5, near ";
+    "
+syntax error at (eval 50) line 8, near ";
+}"
+syntax error at (eval 51) line 3, near "564
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 51) line 5, near ";
+    "
+syntax error at (eval 51) line 8, near ";
+}"
+syntax error at (eval 52) line 3, near "565
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 52) line 5, near ";
+    "
+syntax error at (eval 52) line 8, near ";
+}"
+syntax error at (eval 53) line 3, near "566
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 53) line 5, near ";
+    "
+syntax error at (eval 53) line 8, near ";
+}"
+syntax error at (eval 54) line 3, near "567
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 54) line 5, near ";
+    "
+syntax error at (eval 54) line 8, near ";
+}"
+syntax error at (eval 55) line 3, near "568
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 55) line 5, near ";
+    "
+syntax error at (eval 55) line 8, near ";
+}"
+syntax error at (eval 56) line 3, near "569
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 56) line 5, near ";
+    "
+syntax error at (eval 56) line 8, near ";
+}"
+syntax error at (eval 57) line 3, near "570
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 57) line 5, near ";
+    "
+syntax error at (eval 57) line 8, near ";
+}"
+syntax error at (eval 58) line 3, near "571
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 58) line 5, near ";
+    "
+syntax error at (eval 58) line 8, near ";
+}"
+syntax error at (eval 59) line 3, near "572
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 59) line 5, near ";
+    "
+syntax error at (eval 59) line 8, near ";
+}"
+syntax error at (eval 60) line 3, near "573
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 60) line 5, near ";
+    "
+syntax error at (eval 60) line 8, near ";
+}"
+syntax error at (eval 61) line 3, near "574
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 61) line 5, near ";
+    "
+syntax error at (eval 61) line 8, near ";
+}"
+syntax error at (eval 62) line 3, near "575
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 62) line 5, near ";
+    "
+syntax error at (eval 62) line 8, near ";
+}"
+syntax error at (eval 63) line 3, near "576
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 63) line 5, near ";
+    "
+syntax error at (eval 63) line 8, near ";
+}"
+syntax error at (eval 64) line 3, near "577
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 64) line 5, near ";
+    "
+syntax error at (eval 64) line 8, near ";
+}"
+syntax error at (eval 65) line 3, near "578
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 65) line 5, near ";
+    "
+syntax error at (eval 65) line 8, near ";
+}"
+syntax error at (eval 66) line 3, near "579
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 66) line 5, near ";
+    "
+syntax error at (eval 66) line 8, near ";
+}"
+syntax error at (eval 67) line 3, near "580
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 67) line 5, near ";
+    "
+syntax error at (eval 67) line 8, near ";
+}"
+syntax error at (eval 68) line 3, near "581
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 68) line 5, near ";
+    "
+syntax error at (eval 68) line 8, near ";
+}"
+syntax error at (eval 69) line 3, near "582
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 69) line 5, near ";
+    "
+syntax error at (eval 69) line 8, near ";
+}"
+syntax error at (eval 70) line 3, near "583
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 70) line 5, near ";
+    "
+syntax error at (eval 70) line 8, near ";
+}"
+syntax error at (eval 71) line 3, near "584
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 71) line 5, near ";
+    "
+syntax error at (eval 71) line 8, near ";
+}"
+syntax error at (eval 72) line 3, near "585
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 72) line 5, near ";
+    "
+syntax error at (eval 72) line 8, near ";
+}"
+syntax error at (eval 73) line 3, near "586
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 73) line 5, near ";
+    "
+syntax error at (eval 73) line 8, near ";
+}"
+syntax error at (eval 74) line 3, near "587
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 74) line 5, n
