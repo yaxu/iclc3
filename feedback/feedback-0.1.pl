@@ -559,7 +559,7 @@ use vars qw/$use_osc/;
 
 BEGIN {
     eval {
-        require Net::OpenSoundControl:Client;
+        require Net::OpenSoundControl::Client;
         $use_osc = 1;
     };
     if ($@) {
