@@ -559,7 +559,7 @@ use vars qw/$use_osc/;
 
 BEGIN {
     eval {
-        require Audio::OSC::Client;
+        require Net::OpenSoundControl;;
         $use_osc = 1;
     };
     if ($@) {
@@ -608,7 +608,7 @@ sub _init {
 sub _init_osc {
     my $self = shift;
     my $osc = 
-      Audio::OSC::Client->new(Host => 'localhost', Port => 57120)
+      Net::OpenSoundControl->new(Host => 'localhost', Port => 57120)
           or die "failed to connect to SuperCollider\n";
     $self->{osc} = $osc;
 }
