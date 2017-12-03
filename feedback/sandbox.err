@@ -3988,3 +3988,237 @@ Can't redeclare "my" in "my" at (eval 617) line 5, near ";
 syntax error at (eval 617) line 8, near ";
 }"
 Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 618) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 618) line 5, near ";
+    "
+syntax error at (eval 618) line 8, near ";
+}"
+syntax error at (eval 619) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 619) line 5, near ";
+    "
+syntax error at (eval 619) line 8, near ";
+}"
+syntax error at (eval 620) line 3, near "3
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 620) line 5, near ";
+    "
+syntax error at (eval 620) line 8, near ";
+}"
+syntax error at (eval 621) line 3, near "4
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 621) line 5, near ";
+    "
+syntax error at (eval 621) line 8, near ";
+}"
+syntax error at (eval 622) line 3, near "5
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 622) line 5, near ";
+    "
+syntax error at (eval 622) line 8, near ";
+}"
+syntax error at (eval 623) line 3, near "6
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 623) line 5, near ";
+    "
+syntax error at (eval 623) line 8, near ";
+}"
+syntax error at (eval 624) line 3, near "7
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 624) line 5, near ";
+    "
+syntax error at (eval 624) line 8, near ";
+}"
+syntax error at (eval 625) line 3, near "8
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 625) line 5, near ";
+    "
+syntax error at (eval 625) line 8, near ";
+}"
+syntax error at (eval 626) line 3, near "9
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 626) line 5, near ";
+    "
+syntax error at (eval 626) line 8, near ";
+}"
+syntax error at (eval 627) line 3, near "10
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 627) line 5, near ";
+    "
+syntax error at (eval 627) line 8, near ";
+}"
+syntax error at (eval 628) line 3, near "11
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 628) line 5, near ";
+    "
+syntax error at (eval 628) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 629) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 629) line 5, near ";
+    "
+syntax error at (eval 629) line 8, near ";
+}"
+syntax error at (eval 630) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 630) line 5, near ";
+    "
+syntax error at (eval 630) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 631) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 631) line 5, near ";
+    "
+syntax error at (eval 631) line 8, near ";
+}"
+syntax error at (eval 632) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 632) line 5, near ";
+    "
+syntax error at (eval 632) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 633) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 633) line 5, near ";
+    "
+syntax error at (eval 633) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 634) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 634) line 5, near ";
+    "
+syntax error at (eval 634) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 635) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 635) line 5, near ";
+    "
+syntax error at (eval 635) line 8, near ";
+}"
+syntax error at (eval 636) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 636) line 5, near ";
+    "
+syntax error at (eval 636) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 637) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 637) line 5, near ";
+    "
+syntax error at (eval 637) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 638) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 638) line 5, near ";
+    "
+syntax error at (eval 638) line 8, near ";
+}"
+syntax error at (eval 639) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 639) line 5, near ";
+    "
+syntax error at (eval 639) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 640) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 640) line 5, near ";
+    "
+syntax error at (eval 640) line 8, near ";
+}"
+syntax error at (eval 641) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 641) line 5, near ";
+    "
+syntax error at (eval 641) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
+syntax error at (eval 642) line 3, near "1
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 642) line 5, near ";
+    "
+syntax error at (eval 642) line 8, near ";
+}"
+syntax error at (eval 643) line 3, near "2
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 643) line 5, near ";
+    "
+syntax error at (eval 643) line 8, near ";
+}"
+syntax error at (eval 644) line 3, near "3
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 644) line 5, near ";
+    "
+syntax error at (eval 644) line 8, near ";
+}"
+syntax error at (eval 645) line 3, near "4
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 645) line 5, near ";
+    "
+syntax error at (eval 645) line 8, near ";
+}"
+syntax error at (eval 646) line 3, near "5
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 646) line 5, near ";
+    "
+syntax error at (eval 646) line 8, near ";
+}"
+syntax error at (eval 647) line 3, near "6
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 647) line 5, near ";
+    "
+syntax error at (eval 647) line 8, near ";
+}"
+syntax error at (eval 648) line 3, near "7
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 648) line 5, near ";
+    "
+syntax error at (eval 648) line 8, near ";
+}"
+syntax error at (eval 649) line 3, near "8
+
+sub bang "
+Can't redeclare "my" in "my" at (eval 649) line 5, near ";
+    "
+syntax error at (eval 649) line 8, near ";
+}"
+Use of uninitialized value $bang in addition (+) at (eval 24) line 6.
