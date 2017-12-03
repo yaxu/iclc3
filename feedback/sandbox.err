@@ -1768,3 +1768,262 @@ syntax error at (eval 261) line 8, near ";
 }"
 "my" variable $self masks earlier declaration in same statement at (eval 262) line 6.
 "my" variable $self masks earlier declaration in same scope at (eval 262) line 7.
+syntax error at (eval 262) line 3, near "775
+
+sub bang "
+syntax error at (eval 262) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 263) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 263) line 7.
+syntax error at (eval 263) line 3, near "776
+
+sub bang "
+syntax error at (eval 263) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 264) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 264) line 7.
+syntax error at (eval 264) line 3, near "777
+
+sub bang "
+syntax error at (eval 264) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 265) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 265) line 7.
+syntax error at (eval 265) line 3, near "778
+
+sub bang "
+syntax error at (eval 265) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 266) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 266) line 7.
+syntax error at (eval 266) line 3, near "779
+
+sub bang "
+syntax error at (eval 266) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 267) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 267) line 7.
+syntax error at (eval 267) line 3, near "780
+
+sub bang "
+syntax error at (eval 267) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 268) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 268) line 7.
+syntax error at (eval 268) line 3, near "781
+
+sub bang "
+syntax error at (eval 268) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 269) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 269) line 7.
+syntax error at (eval 269) line 3, near "782
+
+sub bang "
+syntax error at (eval 269) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 270) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 270) line 7.
+syntax error at (eval 270) line 3, near "783
+
+sub bang "
+syntax error at (eval 270) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 271) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 271) line 7.
+syntax error at (eval 271) line 3, near "784
+
+sub bang "
+syntax error at (eval 271) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 272) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 272) line 7.
+syntax error at (eval 272) line 3, near "785
+
+sub bang "
+syntax error at (eval 272) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 273) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 273) line 7.
+syntax error at (eval 273) line 3, near "786
+
+sub bang "
+syntax error at (eval 273) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 274) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 274) line 7.
+syntax error at (eval 274) line 3, near "787
+
+sub bang "
+syntax error at (eval 274) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 275) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 275) line 7.
+syntax error at (eval 275) line 3, near "788
+
+sub bang "
+syntax error at (eval 275) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 276) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 276) line 7.
+syntax error at (eval 276) line 3, near "789
+
+sub bang "
+syntax error at (eval 276) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 277) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 277) line 7.
+syntax error at (eval 277) line 3, near "790
+
+sub bang "
+syntax error at (eval 277) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 278) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 278) line 7.
+syntax error at (eval 278) line 3, near "791
+
+sub bang "
+syntax error at (eval 278) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 279) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 279) line 7.
+syntax error at (eval 279) line 3, near "792
+
+sub bang "
+syntax error at (eval 279) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 280) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 280) line 7.
+syntax error at (eval 280) line 3, near "793
+
+sub bang "
+syntax error at (eval 280) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 281) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 281) line 7.
+syntax error at (eval 281) line 3, near "794
+
+sub bang "
+syntax error at (eval 281) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 282) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 282) line 7.
+syntax error at (eval 282) line 3, near "795
+
+sub bang "
+syntax error at (eval 282) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 283) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 283) line 7.
+syntax error at (eval 283) line 3, near "796
+
+sub bang "
+syntax error at (eval 283) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 284) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 284) line 7.
+syntax error at (eval 284) line 3, near "797
+
+sub bang "
+syntax error at (eval 284) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 285) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 285) line 7.
+syntax error at (eval 285) line 3, near "798
+
+sub bang "
+syntax error at (eval 285) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 286) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 286) line 7.
+syntax error at (eval 286) line 3, near "799
+
+sub bang "
+syntax error at (eval 286) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 287) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 287) line 7.
+syntax error at (eval 287) line 3, near "800
+
+sub bang "
+syntax error at (eval 287) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 288) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 288) line 7.
+syntax error at (eval 288) line 3, near "801
+
+sub bang "
+syntax error at (eval 288) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 289) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 289) line 7.
+syntax error at (eval 289) line 3, near "802
+
+sub bang "
+syntax error at (eval 289) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 290) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 290) line 7.
+syntax error at (eval 290) line 3, near "803
+
+sub bang "
+syntax error at (eval 290) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 291) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 291) line 7.
+syntax error at (eval 291) line 3, near "804
+
+sub bang "
+syntax error at (eval 291) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 292) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 292) line 7.
+syntax error at (eval 292) line 3, near "805
+
+sub bang "
+syntax error at (eval 292) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 293) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 293) line 7.
+syntax error at (eval 293) line 3, near "806
+
+sub bang "
+syntax error at (eval 293) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 294) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 294) line 7.
+syntax error at (eval 294) line 3, near "807
+
+sub bang "
+syntax error at (eval 294) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 295) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 295) line 7.
+syntax error at (eval 295) line 3, near "808
+
+sub bang "
+syntax error at (eval 295) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 296) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 296) line 7.
+syntax error at (eval 296) line 3, near "809
+
+sub bang "
+syntax error at (eval 296) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 297) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 297) line 7.
+syntax error at (eval 297) line 3, near "810
+
+sub bang "
+syntax error at (eval 297) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 298) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 298) line 7.
+syntax error at (eval 298) line 3, near "811
+
+sub bang "
+syntax error at (eval 298) line 8, near ";
+}"
+"my" variable $self masks earlier declaration in same statement at (eval 299) line 6.
+"my" variable $self masks earlier declaration in same scope at (eval 299) line 7.
