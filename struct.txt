@@ -15,3 +15,5 @@ Maypole dancing
 
 St Bridget's cross
 
+load /slub/samples/gabba/0.wav as gabba0
+load /slub/samples/gabba/1.wav as gabba1
