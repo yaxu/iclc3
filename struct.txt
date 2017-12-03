@@ -17,3 +17,6 @@ St Bridget's cross
 
 load /slub/samples/gabba/0.wav as gabba0
 load /slub/samples/gabba/1.wav as gabba1
+load /slub/samples/gabba/2.wav as gabba2
+load /slub/samples/gabba/3.wav as gabba3
+play gabba0 pitch 60 cutoff 221.05359619233 vol 96.1890761160809 pan 0.514851945898871 res 0.0533814850455492
