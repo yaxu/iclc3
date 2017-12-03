@@ -1,10 +1,6 @@
 
 Patterns I Have Known and Loved
 
-Maypole dancing
-
-Pattern
-
 forkbomb.pl
 
 flower.pl
@@ -12,4 +8,10 @@ flower.pl
 slub system v1
 
 feedback.pl
+
+Pattern
+
+Maypole dancing
+
+Braid
 
