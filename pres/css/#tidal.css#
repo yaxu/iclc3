@@ -1,0 +1,17 @@
+.tidaledit {
+    width: 100%;
+    height: 12em;
+    font-size: 0.9em;
+}
+
+.knit {
+    font-size: 0.25em;
+}
+
+.semitrans4 {
+    background-color: rgba(0,0,0, 0.4);;
+}
+
+.semitrans3 {
+    background-color: rgba(0,0,0, 0.3);;
+}

@@ -864,6 +864,8 @@ sub modified {
 
 ##
 
+
+
 sub play {
     my $self = shift;
     my ($num, $gain, $pan, $formfreq, $bwfreq, $ts, $offset, $crackle, $browndel, $env);
@@ -923,6 +925,27 @@ sub play {
 }
 
 ##
+
+sub superdirt {
+    my $self = shift;
+    my $params = shift;
+    my $msg = ['/play2'];
+    
+    foreach my $key (%$params) {
+	my $type = $params->{$key}->[0];
+	my $value = $params->{$key}->[1];
+	push(@$msg, ('s', $key, $type, $value));
+    }
+    
+    my $osc = $self->{osc};
+
+    $osc->send(['#bundle', 
+                $self->{now} + $self->{buffer_time},
+                $msg
+               ]
+              );
+}
+
 
 sub trigger {
     my $self = shift;
