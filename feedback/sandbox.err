@@ -130,3 +130,203 @@ String found where operator expected at (eval 251) line 7, near "'s' "drum""
 syntax error at (eval 251) line 7, near "'s' "drum""
 String found where operator expected at (eval 252) line 7, near "'s'  "drum""
 	(Missing operator before   "drum"?)
+syntax error at (eval 252) line 7, near "'s'  "drum""
+Not a HASH reference at feedback-0.1.pl line 934.
+Can't modify constant item in scalar assignment at (eval 253) line 7, near ""drum"]"
+syntax error at (eval 253) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 254) line 7, near ""drum"]"
+syntax error at (eval 254) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 255) line 7, near ""drum"]"
+syntax error at (eval 255) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 256) line 7, near ""drum"]"
+syntax error at (eval 256) line 7, near ""drum"]"
+Not a HASH reference at feedback-0.1.pl line 934.
+Can't modify constant item in scalar assignment at (eval 257) line 7, near ""drum"]"
+syntax error at (eval 257) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 258) line 7, near ""drum"]"
+syntax error at (eval 258) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 259) line 7, near ""drum"]"
+syntax error at (eval 259) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 260) line 7, near ""drum"]"
+syntax error at (eval 260) line 7, near ""drum"]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 261) line 7, near "=?"
+syntax error at (eval 262) line 7, near "=?"
+syntax error at (eval 263) line 7, near "=?"
+syntax error at (eval 264) line 7, near "=?"
+Not a HASH reference at feedback-0.1.pl line 934.
+Can't modify constant item in scalar assignment at (eval 265) line 7, near ""drum"]"
+syntax error at (eval 265) line 7, near ""drum"]"
+Can't modify constant item in scalar assignment at (eval 266) line 7, near ""drum"]"
+syntax error at (eval 266) line 7, near ""drum"]"
+syntax error at (eval 267) line 7, near ""drum"]"
+syntax error at (eval 268) line 7, near ""drum"]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 269) line 7, near ""drum"]"
+syntax error at (eval 270) line 7, near ""drum"]"
+syntax error at (eval 271) line 7, near ""drum"]"
+syntax error at (eval 272) line 7, near ""drum"]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 273) line 7, near ""drum"]"
+syntax error at (eval 274) line 7, near ""drum"]"
+syntax error at (eval 275) line 7, near ""drum"]"
+syntax error at (eval 276) line 7, near ""drum"]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 277) line 7, near ""drum"]"
+syntax error at (eval 278) line 7, near ""drum"]"
+syntax error at (eval 279) line 7, near ""drum"]"
+Scalar found where operator expected at (eval 280) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 280) line 7, near "])"
+Missing right curly or square bracket at (eval 280) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 281) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 281) line 7, near "])"
+Missing right curly or square bracket at (eval 281) line 10, at end of line
+Scalar found where operator expected at (eval 282) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 282) line 7, near "])"
+Missing right curly or square bracket at (eval 282) line 10, at end of line
+Scalar found where operator expected at (eval 283) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 283) line 7, near "])"
+Missing right curly or square bracket at (eval 283) line 10, at end of line
+Scalar found where operator expected at (eval 284) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 284) line 7, near "])"
+Missing right curly or square bracket at (eval 284) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 285) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 285) line 7, near "])"
+Missing right curly or square bracket at (eval 285) line 10, at end of line
+Scalar found where operator expected at (eval 286) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 286) line 7, near "])"
+Missing right curly or square bracket at (eval 286) line 10, at end of line
+Scalar found where operator expected at (eval 287) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 287) line 7, near "])"
+Missing right curly or square bracket at (eval 287) line 10, at end of line
+Scalar found where operator expected at (eval 288) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 288) line 7, near "])"
+Missing right curly or square bracket at (eval 288) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Can't find string terminator "'" anywhere before EOF at (eval 289) line 7.
+Can't find string terminator "'" anywhere before EOF at (eval 290) line 7.
+Can't find string terminator "'" anywhere before EOF at (eval 291) line 7.
+Can't find string terminator "'" anywhere before EOF at (eval 292) line 7.
+Not a HASH reference at feedback-0.1.pl line 934.
+String found where operator expected at (eval 293) line 7, near "'s'"drum""
+	(Missing operator before "drum"?)
+Scalar found where operator expected at (eval 293) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 293) line 7, near "'s'"drum""
+Missing right curly or square bracket at (eval 293) line 10, at end of line
+String found where operator expected at (eval 294) line 7, near "'s'"drum""
+	(Missing operator before "drum"?)
+Scalar found where operator expected at (eval 294) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 294) line 7, near "'s'"drum""
+Missing right curly or square bracket at (eval 294) line 10, at end of line
+String found where operator expected at (eval 295) line 7, near "'s'"drum""
+	(Missing operator before "drum"?)
+Scalar found where operator expected at (eval 295) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 295) line 7, near "'s'"drum""
+Missing right curly or square bracket at (eval 295) line 10, at end of line
+String found where operator expected at (eval 296) line 7, near "'s'"drum""
+	(Missing operator before "drum"?)
+Scalar found where operator expected at (eval 296) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 296) line 7, near "'s'"drum""
+Missing right curly or square bracket at (eval 296) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 297) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 297) line 7, near "])"
+Missing right curly or square bracket at (eval 297) line 10, at end of line
+Scalar found where operator expected at (eval 298) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 298) line 7, near "])"
+Missing right curly or square bracket at (eval 298) line 10, at end of line
+Scalar found where operator expected at (eval 299) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 299) line 7, near "])"
+Missing right curly or square bracket at (eval 299) line 10, at end of line
+Scalar found where operator expected at (eval 300) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 300) line 7, near "])"
+Missing right curly or square bracket at (eval 300) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 301) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 301) line 7, near "])"
+Missing right curly or square bracket at (eval 301) line 10, at end of line
+Scalar found where operator expected at (eval 302) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 302) line 7, near "])"
+Missing right curly or square bracket at (eval 302) line 10, at end of line
+Scalar found where operator expected at (eval 303) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 303) line 7, near "])"
+Missing right curly or square bracket at (eval 303) line 10, at end of line
+Scalar found where operator expected at (eval 304) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 304) line 7, near "])"
+Missing right curly or square bracket at (eval 304) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 305) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 305) line 7, near "])"
+Missing right curly or square bracket at (eval 305) line 10, at end of line
+Scalar found where operator expected at (eval 306) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
