@@ -330,3 +330,85 @@ Scalar found where operator expected at (eval 306) line 9, near "}
     $self"
 	(Missing operator before 
     $self?)
+syntax error at (eval 306) line 7, near "])"
+Missing right curly or square bracket at (eval 306) line 10, at end of line
+Scalar found where operator expected at (eval 307) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 307) line 7, near "])"
+Missing right curly or square bracket at (eval 307) line 10, at end of line
+Scalar found where operator expected at (eval 308) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 308) line 7, near "])"
+Missing right curly or square bracket at (eval 308) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 309) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 309) line 7, near "])"
+Missing right curly or square bracket at (eval 309) line 10, at end of line
+Scalar found where operator expected at (eval 310) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 310) line 7, near "])"
+Missing right curly or square bracket at (eval 310) line 10, at end of line
+Scalar found where operator expected at (eval 311) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 311) line 7, near "])"
+Missing right curly or square bracket at (eval 311) line 10, at end of line
+Scalar found where operator expected at (eval 312) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 312) line 7, near "])"
+Missing right curly or square bracket at (eval 312) line 10, at end of line
+Not a HASH reference at feedback-0.1.pl line 934.
+Scalar found where operator expected at (eval 313) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 313) line 7, near "])"
+Missing right curly or square bracket at (eval 313) line 10, at end of line
+Scalar found where operator expected at (eval 314) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 314) line 7, near "])"
+Missing right curly or square bracket at (eval 314) line 10, at end of line
+syntax error at (eval 315) line 7, near "]]"
+syntax error at (eval 316) line 7, near "]]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 317) line 7, near "]]"
+syntax error at (eval 318) line 7, near "]]"
+syntax error at (eval 319) line 7, near "]]"
+syntax error at (eval 320) line 7, near "]]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 321) line 7, near "]]"
+syntax error at (eval 322) line 7, near "]]"
+syntax error at (eval 323) line 7, near "]]"
+syntax error at (eval 324) line 7, near "]]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 325) line 7, near "]]"
+syntax error at (eval 326) line 7, near "]]"
+syntax error at (eval 327) line 7, near "]]"
+syntax error at (eval 328) line 7, near "]]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 329) line 7, near "]]"
+syntax error at (eval 330) line 7, near "]]"
+syntax error at (eval 331) line 7, near "]]"
+syntax error at (eval 332) line 7, near "]]"
+Not a HASH reference at feedback-0.1.pl line 934.
+syntax error at (eval 333) line 7, near "]]"
+syntax error at (eval 334) line 7, near "]]"
+syntax error at (eval 335) line 7, near "]]"
+Scalar found where operator expected at (eval 336) line 9, near "}
+    $self"
+	(Missing operator before 
+    $self?)
