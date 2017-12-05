@@ -1,0 +1,449 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Patterns I Have Known and Loved</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/tidal.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+	  <div class="reveal">
+	    <div class="slides">
+
+	      <section data-markdown data-background-image="images/algorave_coded_matter.jpg" data-background-size="contain" data-background-color="#000">
+		<script type="text/template">
+		  # Patterns
+
+		  ## I Have Known and Loved
+
+		  Alex McLean
+
+		  Deutsches Museum, Munich
+		  
+		  [slab.org](http://slab.org/) / [@yaxu](http://twitter.com/yaxu/)
+
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/slub.jpg" data-background-size="contain" class="semitrans3">
+		<script type="text/template">
+		  ## Slub
+
+		  * Born 2000
+		  * Handmade software
+		  * Screen projection
+
+		  Note:
+		  
+		</script>
+	      </section>
+
+      	      <section data-markdown data-background-image="images/slub.jpg" data-background-size="contain">
+		<script type="text/template">
+		  ## Slub
+
+		  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2lW1zNIIwj0Pqpg1pumF1b-Bu9LO93f9" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+		  <span class="attribution">Delivered ICA, Sept 2000</span>
+		  
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      
+	      <section data-markdown data-background-image="images/generative.jpg" data-background-size="contain">
+		<script type="text/template">
+		  
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Perl scripts
+		  
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Changing Grammars
+
+		  <img src="images/toplap.png" style="border: 0" />
+
+		  http://toplap.org/
+		  
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Feedback.pl
+
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Percussion
+
+		  <img src="images/tablex_1.jpg">
+		  <img src="images/canute.jpeg" style="width: 180px">
+		  
+		  Note:
+		  
+		</script>
+	      </section>
+
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Pattern
+
+		  Note:
+		  
+		</script>
+	      </section>
+	      
+	      <!--
+	      <section data-background-video="tedxalgo.mp4">
+	      </section>
+	      -->
+
+	      <section data-markdown data-background-image="images/schoolyard-maypole-dance-doris-lee-1946-wide.png" >
+		<script type="text/template">
+		  <span class="attribution">Schoolyard Maypole Dance by Doris Lee</span>
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/schoolyard-maypole-dance-doris-lee-1946-wide.png" class="semitrans4">
+		<script type="text/template">
+		Algorithmic
+		dance culture
+
+		<span class="attribution">Schoolyard Maypole Dance by Doris Lee</span>
+		
+		Note: 
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/plunkett-st-bridget-crosses.jpg" data-background-size="contain">
+		<script type="text/template">
+		  ## St Bridget Cross
+
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      <section data-markdown>
+		<script type="text/template">
+		  ## Some code
+<code class="knit" style="font-size: 0.32em; text-align:left;">
+<table><tr><td>
+CUFF PATTERN: 
+1st – 3rd rnd: (K1, P1) around
+4th nd rnd: (P1, K1) around
+
+LEG PATTERN: (8-stitch repeat)
+1st – 4th rnd: (K7, P1) around
+5th rnd: *K2, yo, sl1, K2tog, psso, yo, K2, P1* repeat from * around.
+6th rnd: (K7, P1) around
+7th – 8th rnd: same as 5th & 6th rnds.
+
+CUFF: With A, cast on 64 sts (21/21/22). Join. Work Cuff Pattern for 2” ending rnd. 3. Cut A.
+
+LEG: With B, begin Leg Pattern, repeating until work measures 5” (or desired length), ending with rnd 8. Cut B
+
+Slip first 31 sts. onto needle 1, leave remaining 33 (instep) st. onto spare needle. Instep should start and end with a P. stitch.
+
+HEEL: (worked over 31 sts.) With A:
+1st row: (sl.1, K1) across, end K.1.
+2nd row: Sl. 1, P to end.
+Repeat these 2 rows until 32 rows completed in total, ending with right side facing.
+
+SHAPE HEEL:
+1st row: K 17, ssk, K1, Turn
+2nd row: Sl.1, P5, P2tog, P1, Turn
+3rd row: Sl.1, K6, ssk, K1, Turn
+4th row: Sl.1, P7, P2 tog, P1, Turn
+5th row: Sl. 1, K8, ssk, K1, Turn
+6th row: Sl.1, P9, P2 tog, P1, Turn
+</td><td width="50%">
+Continue working in this manner until all stitches have been worked ending with a P row. (17sts) Cut A.
+
+GUSSETTS: With B:
+1st needle: K17 heel st.,Pick up and knit 16 sts along side of heel.
+2nd needle: continue 33 instep sts in pattern as established.
+3rd needle: Pick up and knit 16 sts along side of heel. K9 heel st. (24/33/25)
+
+Beginning rnd at center of heel:
+1st rnd: 1st needle: K to last 3 sts. K2tog, K1.
+2nd needle: work pattern
+3rd needle: K1, ssk, K to end.
+2nd rnd: 1st needle: Knit
+2nd needle: work pattern
+3rd needle: Knit
+Repeat these 2 rnds, keeping continuity of pattern on 2nd needle of 33 instep stitches until 64 sts remain. (15/33/16)
+
+FOOT: Continue even on these 64 sts. Knitting 1st and 3rd needles and continuing pattern on 2nd needle until foot measures 2” less than desired length of foot. Cut B.
+
+Slip 1st st. of needle 2 onto needle 1. (16,32,16)
+
+TOE: With A: 1st rnd: 1st needle: K to last 3 sts. K2 tog, K1
+2nd needle: K1, ssk, K to last 3 sts. K2 tog, K1
+3rd needle: K1, ssk, K to end.
+2nd rnd: Knit
+Repeat these 2 rnds until 20 sts. remain (5/10/5)
+</td></tr></table>
+</code>
+
+Note:
+The output from this program is actually a (butterfly rib) sock. Run it again
+to get a pair. Knitting socks is an algorithmic art.
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/socks-darker.jpg"  data-background-size="contain" >
+<script type="text/template">
+ ## Some code
+<code class="knit" style="font-size: 0.32em; text-align:left;">
+<table><tr><td>
+CUFF PATTERN: 
+1st – 3rd rnd: (K1, P1) around
+4th nd rnd: (P1, K1) around
+
+LEG PATTERN: (8-stitch repeat)
+1st – 4th rnd: (K7, P1) around
+5th rnd: *K2, yo, sl1, K2tog, psso, yo, K2, P1* repeat from * around.
+6th rnd: (K7, P1) around
+7th – 8th rnd: same as 5th & 6th rnds.
+
+CUFF: With A, cast on 64 sts (21/21/22). Join. Work Cuff Pattern for 2” ending rnd. 3. Cut A.
+
+LEG: With B, begin Leg Pattern, repeating until work measures 5” (or desired length), ending with rnd 8. Cut B
+
+Slip first 31 sts. onto needle 1, leave remaining 33 (instep) st. onto spare needle. Instep should start and end with a P. stitch.
+
+HEEL: (worked over 31 sts.) With A:
+1st row: (sl.1, K1) across, end K.1.
+2nd row: Sl. 1, P to end.
+Repeat these 2 rows until 32 rows completed in total, ending with right side facing.
+
+SHAPE HEEL:
+1st row: K 17, ssk, K1, Turn
+2nd row: Sl.1, P5, P2tog, P1, Turn
+3rd row: Sl.1, K6, ssk, K1, Turn
+4th row: Sl.1, P7, P2 tog, P1, Turn
+5th row: Sl. 1, K8, ssk, K1, Turn
+6th row: Sl.1, P9, P2 tog, P1, Turn
+</td><td width="50%">
+Continue working in this manner until all stitches have been worked ending with a P row. (17sts) Cut A.
+
+GUSSETTS: With B:
+1st needle: K17 heel st.,Pick up and knit 16 sts along side of heel.
+2nd needle: continue 33 instep sts in pattern as established.
+3rd needle: Pick up and knit 16 sts along side of heel. K9 heel st. (24/33/25)
+
+Beginning rnd at center of heel:
+1st rnd: 1st needle: K to last 3 sts. K2tog, K1.
+2nd needle: work pattern
+3rd needle: K1, ssk, K to end.
+2nd rnd: 1st needle: Knit
+2nd needle: work pattern
+3rd needle: Knit
+Repeat these 2 rnds, keeping continuity of pattern on 2nd needle of 33 instep stitches until 64 sts remain. (15/33/16)
+
+FOOT: Continue even on these 64 sts. Knitting 1st and 3rd needles and continuing pattern on 2nd needle until foot measures 2” less than desired length of foot. Cut B.
+
+Slip 1st st. of needle 2 onto needle 1. (16,32,16)
+
+TOE: With A: 1st rnd: 1st needle: K to last 3 sts. K2 tog, K1
+2nd needle: K1, ssk, K to last 3 sts. K2 tog, K1
+3rd needle: K1, ssk, K to end.
+2nd rnd: Knit
+Repeat these 2 rnds until 20 sts. remain (5/10/5)
+</td></tr></table>
+</code>
+
+<span class="attribution">Credit: PKJewelry</span>
+Note:
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="" class="semitrans3">
+		<script type="text/template">
+		  ## Epiploke
+
+		  <img src="images/epiploke.png" style="border: 0; margin; 2em 4em" />
+
+		  <span class="attribution">Thomas Cole</span>
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/mg/_MG_7923.jpg" class="semitrans3">
+		<script type="text/template">
+		  ## Embodied patterns
+
+		  <span class="attribution">Renick Bell</span>
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/weave.jpg" class="semitrans4">
+		<script type="text/template">
+Pattern in music
+* repetition
+* symmetry
+* interference
+* deviation
+
+Note:
+Sounds simple, but these patterns are combined on multiple scales, and
+in multiple dimensions.
+
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="images/weave.jpg" class="semitrans4">
+		<script type="text/template">
+		  > Weaving employs a concept of number that is not about counting but about possibilities of form, of arrangements of elements that "possess" number.
+
+		  > El tejido emplea un concepto de número que no se trata del conteo, sino de las posibilidades de la forma, de arreglos de elementos que “poseen” un número.
+
+		  Ellen Harlizius-Klück
+		</script>
+	      </section>
+	      
+	      <section data-markdown data-background-image="images/tidalcycles-bg-screen.png">
+		<script type="text/template">
+		  # TidalCycles
+		  <iframe src="edit.html" class="tidaledit"></iframe>
+		  Note:
+		  `<~`, `jux`, `off`, `iter`, `chunk`
+		</script>
+	      </section>	      
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Future of Live Coding
+		  
+		  Note:
+		  
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Single-disciplinarity
+		  
+		  > “How will live programming get from our current aspirational demos to use in the real world?”
+		  
+		  Jonathan Edwards (2016), *Live end-user programming - A demo/manifesto.* LIVE workshop, ECOOP
+
+		  Note:
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Heirarchy
+
+		  <p style="font-size:0.9em">
+		  "Why so many women in early electronic music? Back then there were very few women composers of any kind. That was partly because men controlled access to performance, presentation, preservation and publication resources."
+		  <br /><br />
+		  "Why so many women in early electronic music? Back then there were very few women composers of any kind. That was partly because men controlled access to performance, presentation, preservation and publication resources."
+		  </p>
+		  
+		  Note:
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Heirarchy
+		  
+		  <p style="font-size:0.9em">
+		    In contrast, electronic equipment did not treat women any differently from men. We were able to turn our musical ideas into sound and then play them for people without the almost-always-male establishment gatekeepers and their biases."
+
+		    In contrast, electronic equipment did not treat women any differently from men. We were able to turn our musical ideas into sound and then play them for people without the almost-always-male establishment gatekeepers and their biases."
+		    </
+
+		  Laurie Spiegel, on facebook
+
+		  Note:
+		</script>
+	      </section>
+
+	      <section data-markdown data-background-image="">
+		<script type="text/template">
+		  ## Keep changing the rules
+
+		  Note:
+		</script>
+	      </section>
+	      
+	      <section data-markdown data-background-image="images/by_Vitalija_Glovackyte-light.jpg">
+		<script type="text/template">
+		  ## Thanks
+
+		  [slab.org](http://slab.org/) / [@yaxu](http://twitter.com/yaxu/)
+		  <br />
+		  <br />
+		  <br />
+		  <br />
+		  <br />
+		  <br />
+		  <br />
+		  <span class="attribution">Photo: Vitalija Glovackyte</span>
+		</script>
+	      </section>
+	      
+	    </div>
+	  </div>
+	  
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+			history: true,
+			transition: "fade",
+			transitionSpeed: "fast",
+			// showNotes: true,
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
