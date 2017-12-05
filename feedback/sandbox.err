@@ -6854,3 +6854,338 @@ Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/O
 Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
 Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
 Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 569) line 9, at EOF
+syntax error at (eval 569) line 12, at EOF
+Unmatched right curly bracket at (eval 569) line 15, at end of line
+syntax error at (eval 569) line 15, near ";
+}"
+syntax error at (eval 570) line 9, at EOF
+syntax error at (eval 570) line 12, at EOF
+Unmatched right curly bracket at (eval 570) line 15, at end of line
+syntax error at (eval 570) line 15, near ";
+}"
+syntax error at (eval 571) line 9, at EOF
+syntax error at (eval 571) line 12, at EOF
+Unmatched right curly bracket at (eval 571) line 15, at end of line
+syntax error at (eval 571) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 572) line 9, at EOF
+syntax error at (eval 572) line 12, at EOF
+Unmatched right curly bracket at (eval 572) line 15, at end of line
+syntax error at (eval 572) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 573) line 12, near ""
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 573) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 573) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 573) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 573) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 574) line 12, near ""
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 574) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 574) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 574) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 574) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 575) line 12, near ""
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 575) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 575) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 575) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 575) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 576) line 12, near ""
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 576) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 576) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 576) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 576) line 12.
+Bareword found where operator expected at (eval 577) line 12, near ""
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 577) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 577) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 577) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 577) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 578) line 12, near ""b
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 578) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 578) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 578) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 578) line 12.
+Bareword found where operator expected at (eval 579) line 12, near ""ba
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 579) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 579) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 579) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 579) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 580) line 12, near ""ban
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 580) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 580) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 580) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 580) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 581) line 12, near ""bang
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 581) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 581) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 581) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 581) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 582) line 12, near ""bang
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 582) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 582) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 582) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 582) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Bareword found where operator expected at (eval 583) line 12, near ""bang
+    }
+    if ($self->{bangs} % 8 == 2 or $self->{bangs} % 5 == 0) {
+      my $rev = rand() > 0.5;
+      $self->superdirt({'s' => ['s', "cp"
+  (Might be a runaway multi-line "" string starting on line 8)
+	(Missing operator before cp?)
+String found where operator expected at (eval 583) line 12, near "cp"]}, 'vowel' => ['s', ""
+Bareword found where operator expected at (eval 583) line 12, near ""]}, 'vowel' => ['s', "a"
+	(Missing operator before a?)
+String found where operator expected at (eval 583) line 12, at end of line
+	(Missing semicolon on previous line?)
+Can't find string terminator '"' anywhere before EOF at (eval 583) line 12.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 584) line 12, at EOF
+Unmatched right curly bracket at (eval 584) line 15, at end of line
+syntax error at (eval 584) line 15, near ";
+}"
+syntax error at (eval 585) line 12, at EOF
+Unmatched right curly bracket at (eval 585) line 15, at end of line
+syntax error at (eval 585) line 15, near ";
+}"
+syntax error at (eval 586) line 12, at EOF
+Unmatched right curly bracket at (eval 586) line 15, at end of line
+syntax error at (eval 586) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 587) line 12, at EOF
+Unmatched right curly bracket at (eval 587) line 15, at end of line
+syntax error at (eval 587) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 588) line 12, at EOF
+Unmatched right curly bracket at (eval 588) line 15, at end of line
+syntax error at (eval 588) line 15, near ";
+}"
+syntax error at (eval 589) line 12, at EOF
+Unmatched right curly bracket at (eval 589) line 15, at end of line
+syntax error at (eval 589) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 590) line 12, at EOF
+Unmatched right curly bracket at (eval 590) line 15, at end of line
+syntax error at (eval 590) line 15, near ";
+}"
+syntax error at (eval 591) line 12, at EOF
+Unmatched right curly bracket at (eval 591) line 15, at end of line
+syntax error at (eval 591) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 592) line 12, at EOF
+Unmatched right curly bracket at (eval 592) line 15, at end of line
+syntax error at (eval 592) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 593) line 12, at EOF
+Unmatched right curly bracket at (eval 593) line 15, at end of line
+syntax error at (eval 593) line 15, near ";
+}"
+syntax error at (eval 594) line 12, at EOF
+Unmatched right curly bracket at (eval 594) line 15, at end of line
+syntax error at (eval 594) line 15, near ";
+}"
+syntax error at (eval 595) line 12, at EOF
+Unmatched right curly bracket at (eval 595) line 15, at end of line
+syntax error at (eval 595) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 596) line 12, at EOF
+Unmatched right curly bracket at (eval 596) line 15, at end of line
+syntax error at (eval 596) line 15, near ";
+}"
+syntax error at (eval 597) line 12, at EOF
+Unmatched right curly bracket at (eval 597) line 15, at end of line
+syntax error at (eval 597) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 598) line 12, at EOF
+Unmatched right curly bracket at (eval 598) line 15, at end of line
+syntax error at (eval 598) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 599) line 12, at EOF
+Unmatched right curly bracket at (eval 599) line 15, at end of line
+syntax error at (eval 599) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 600) line 12, at EOF
+Unmatched right curly bracket at (eval 600) line 15, at end of line
+syntax error at (eval 600) line 15, near ";
+}"
+syntax error at (eval 601) line 12, at EOF
+Unmatched right curly bracket at (eval 601) line 15, at end of line
+syntax error at (eval 601) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
