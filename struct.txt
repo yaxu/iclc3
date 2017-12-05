@@ -1,25 +1,8 @@
 
-Patterns I Have Known and Loved
-
-forkbomb.pl ?
-
-slub system v1
 
 old can
 chr kurt
 backforth
 singlecell
 perm latibro
-
-Slub system v2
-
-feedback.pl
-
-Pattern
-
-Maypole dancing
-
-St Bridget's cross
-
-Tidal
 
