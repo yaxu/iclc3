@@ -6173,3 +6173,248 @@ Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/O
 Scalar found where operator expected at (eval 479) line 6, near "$m
     $self"
 	(Missing operator before $self?)
+syntax error at (eval 479) line 6, near "$m
+    $self"
+syntax error at (eval 479) line 12, at EOF
+Unmatched right curly bracket at (eval 479) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Scalar found where operator expected at (eval 480) line 6, near "$m
+    $self"
+	(Missing operator before $self?)
+syntax error at (eval 480) line 6, near "$m
+    $self"
+syntax error at (eval 480) line 12, at EOF
+Unmatched right curly bracket at (eval 480) line 15, at end of line
+Scalar found where operator expected at (eval 481) line 6, near "$m
+    $self"
+	(Missing operator before $self?)
+syntax error at (eval 481) line 6, near "$m
+    $self"
+syntax error at (eval 481) line 12, at EOF
+Unmatched right curly bracket at (eval 481) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Scalar found where operator expected at (eval 482) line 6, near "$msg 
+    $self"
+	(Missing operator before $self?)
+syntax error at (eval 482) line 6, near "$msg 
+    $self"
+syntax error at (eval 482) line 12, at EOF
+Unmatched right curly bracket at (eval 482) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 483) line 12, at EOF
+Unmatched right curly bracket at (eval 483) line 15, at end of line
+syntax error at (eval 483) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 484) line 12, at EOF
+Unmatched right curly bracket at (eval 484) line 15, at end of line
+syntax error at (eval 484) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 485) line 12, at EOF
+Unmatched right curly bracket at (eval 485) line 15, at end of line
+syntax error at (eval 485) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 486) line 12, at EOF
+Unmatched right curly bracket at (eval 486) line 15, at end of line
+syntax error at (eval 486) line 15, near ";
+}"
+syntax error at (eval 487) line 12, at EOF
+Unmatched right curly bracket at (eval 487) line 15, at end of line
+syntax error at (eval 487) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 488) line 12, at EOF
+Unmatched right curly bracket at (eval 488) line 15, at end of line
+syntax error at (eval 488) line 15, near ";
+}"
+syntax error at (eval 489) line 12, at EOF
+Unmatched right curly bracket at (eval 489) line 15, at end of line
+syntax error at (eval 489) line 15, near ";
+}"
+syntax error at (eval 490) line 12, at EOF
+Unmatched right curly bracket at (eval 490) line 15, at end of line
+syntax error at (eval 490) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 491) line 12, at EOF
+Unmatched right curly bracket at (eval 491) line 15, at end of line
+syntax error at (eval 491) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 492) line 12, at EOF
+Unmatched right curly bracket at (eval 492) line 15, at end of line
+syntax error at (eval 492) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 493) line 12, at EOF
+Unmatched right curly bracket at (eval 493) line 15, at end of line
+syntax error at (eval 493) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 494) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 494) line 12, at EOF
+Unmatched right curly bracket at (eval 494) line 15, at end of line
+syntax error at (eval 495) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 495) line 12, at EOF
+Unmatched right curly bracket at (eval 495) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 496) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 496) line 12, at EOF
+Unmatched right curly bracket at (eval 496) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 497) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 497) line 12, at EOF
+Unmatched right curly bracket at (eval 497) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 498) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 498) line 12, at EOF
+Unmatched right curly bracket at (eval 498) line 15, at end of line
+syntax error at (eval 499) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 499) line 12, at EOF
+Unmatched right curly bracket at (eval 499) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 500) line 7, near ") {"
+  (Might be a runaway multi-line "" string starting on line 5)
+syntax error at (eval 500) line 12, at EOF
+Unmatched right curly bracket at (eval 500) line 15, at end of line
+Scalar found where operator expected at (eval 501) line 6, near ""# "
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 501) line 6, near ""# "
+    $self"
+syntax error at (eval 501) line 12, at EOF
+Unmatched right curly bracket at (eval 501) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Scalar found where operator expected at (eval 502) line 6, near ""# "
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 502) line 6, near ""# "
+    $self"
+syntax error at (eval 502) line 12, at EOF
+Unmatched right curly bracket at (eval 502) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Scalar found where operator expected at (eval 503) line 6, near ""# "
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 503) line 6, near ""# "
+    $self"
+syntax error at (eval 503) line 12, at EOF
+Unmatched right curly bracket at (eval 503) line 15, at end of line
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Scalar found where operator expected at (eval 504) line 6, near ""# "
+    $self"
+	(Missing operator before 
+    $self?)
+syntax error at (eval 504) line 6, near ""# "
+    $self"
+syntax error at (eval 504) line 12, at EOF
+Unmatched right curly bracket at (eval 504) line 15, at end of line
+syntax error at (eval 505) line 12, at EOF
+Unmatched right curly bracket at (eval 505) line 15, at end of line
+syntax error at (eval 505) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 506) line 12, at EOF
+Unmatched right curly bracket at (eval 506) line 15, at end of line
+syntax error at (eval 506) line 15, near ";
+}"
+syntax error at (eval 507) line 12, at EOF
+Unmatched right curly bracket at (eval 507) line 15, at end of line
+syntax error at (eval 507) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 508) line 12, at EOF
+Unmatched right curly bracket at (eval 508) line 15, at end of line
+syntax error at (eval 508) line 15, near ";
+}"
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
