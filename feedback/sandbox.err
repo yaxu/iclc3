@@ -8572,3 +8572,112 @@ Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/O
 Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
 Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
 Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 731) line 14, near "->code["
+syntax error at (eval 732) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 733) line 14, near "->code["
+syntax error at (eval 734) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 735) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 736) line 14, near "->code["
+syntax error at (eval 737) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 738) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 739) line 14, near "->code["
+syntax error at (eval 740) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+syntax error at (eval 741) line 14, near "->code["
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Can't modify subtraction (-) in scalar assignment at (eval 742) line 14, at EOF
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Can't modify subtraction (-) in scalar assignment at (eval 743) line 14, at EOF
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 274.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 275.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 276.
+Use of uninitialized value $t in string eq at /usr/local/share/perl/5.24.1/Net/OpenSoundControl.pm line 277.
